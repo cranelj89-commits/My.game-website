@@ -1,2 +1,2 @@
-# My.game-website
+my-website
 my first ever games  i made
